@@ -1,339 +1,233 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=200&section=header&text=Yousef%20Mohammed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Specialist&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Building+scalable+systems+that+matter.;Turning+data+into+intelligent+products.;Full+Stack+%E2%86%92+AI%2FML+%E2%86%92+Cloud+Native.;Open+Source+%7C+Always+Shipping.;Founder-minded+Engineer." alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=YOUSEF%20MOHAMMED&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Automation%20Builder&descSize=18&descAlignY=60" width="100%" alt="Header" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Sc._Computer_Science-Software_Engineering-6D28D9?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
-</p>
+<a href="https://github.com/dorvsta">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Building+Scalable+Systems+for+Real+Users;Engineering+Team+Workflow+Platforms;Automating+Commerce+with+Discord+Bots;Turning+Complex+Problems+into+Elegant+Solutions" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Based_In-Middle_East-4F46E5?style=flat-square&logoColor=white" alt="Location" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/dorvsta">
-    <img src="https://img.shields.io/badge/GitHub-@dorvsta-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<a href="https://github.com/dorvsta"><img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dorvsta&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/dorvsta?style=flat-square&color=7C3AED&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/dorvsta?style=flat-square&color=4F46E5&label=TOTAL+STARS&logo=github&logoColor=white" alt="Stars" />
-</p>
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=dorvsta&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/dorvsta?style=flat-square&color=6366F1&label=FOLLOWERS&logo=github&logoColor=white&labelColor=1E1B4B)
+![Stars](https://img.shields.io/github/stars/dorvsta/DorvCoding?style=flat-square&color=8B5CF6&label=STARS&logo=github&logoColor=white&labelColor=1E1B4B)
+
+</div>
 
 ---
 
-## `$ whoami`
+## About
 
-```typescript
-const engineer = {
-  name        : "Yousef Mohammed",
-  handle      : "@dorvsta",
-  role        : "Full Stack Engineer · AI/ML Specialist · Founder",
-  focus       : ["Product Systems", "LLM Applications", "Automation Platforms"],
-  philosophy  : "Ship fast. Scale smart. Build things that outlast you.",
-};
-```
+<div align="center">
+<table>
+<tr>
+<td>
 
-I design and ship **production-grade systems** at the intersection of full-stack engineering, applied AI, and product thinking. My work spans intelligent API backends, real-time automation pipelines, Discord-integrated commerce platforms, and growth-focused SaaS products — all engineered for reliability and real-world scale.
+I am **Yousef Mohammed**, a **Software Engineer** who designs and ships systems that automate real workflows, from distributed team coordination platforms to fully automated Discord commerce. My work emphasizes clean architecture, reliable automation, and products that solve concrete user problems end to end.
 
-I approach every build with a **founder's mindset**: thinking in revenue impact, user retention, and operational efficiency alongside code quality and architecture. Whether it is a milestone-driven funding platform for early-stage businesses or an automated marketplace bot serving thousands of users, I architect for outcomes — not just output.
+- **Software Engineering** — Modular system design, event-driven automation, ticketing and state-machine workflows
+- **Full Stack Development** — Bot backends, web dashboards, admin tooling, and data-driven interfaces
+- **Automation & Integrations** — Payment-triggered fulfillment, scheduled jobs, and lifecycle management
+- **Product Engineering Mindset** — I build around user outcomes: faster delivery, fewer manual steps, and transparent operations
 
-I care deeply about **system design**, **developer experience**, and building software that operates cleanly long after the initial commit.
+</td>
+</tr>
+</table>
+</div>
 
-**Open To:**
-&nbsp;`Senior SWE Roles` &nbsp;`AI/ML Engineering` &nbsp;`Technical Co-Founder` &nbsp;`Open Source Collaboration` &nbsp;`Freelance Product Builds`
+### Open To
+
+| Opportunity | Focus |
+|:--|:--|
+| **Open Source** | Contributing to developer tooling and automation projects |
+| **Collaboration** | Team projects, code reviews, and engineering discussions |
+| **Knowledge Sharing** | Architecture, workflow design, and bot engineering |
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <strong>Languages</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,java,bash,sql,rust&theme=dark&perline=8" />
-  </a>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bash&theme=dark" alt="Languages" />
 </p>
 
-<p align="center">
-  <strong>Frontend</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,graphql,vite,html,css&theme=dark&perline=8" />
-  </a>
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite&theme=dark" alt="Frontend" />
 </p>
 
-<p align="center">
-  <strong>Backend &amp; Databases</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,express,postgres,mongodb,redis,elasticsearch&theme=dark&perline=8" />
-  </a>
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,discord,mongodb,sqlite,postgres,redis&theme=dark" alt="Backend and Databases" />
 </p>
 
-<p align="center">
-  <strong>Cloud, DevOps &amp; Tooling</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,github,githubactions,linux&theme=dark&perline=8" />
-  </a>
+### Cloud, DevOps & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode&theme=dark" alt="Cloud DevOps and Tooling" />
 </p>
 
 ---
 
-## AI / ML Expertise
+## Engineering Focus
 
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Large Language Models** | ████████████ Expert | GPT-4, Claude, Gemini — prompt engineering, RAG pipelines, fine-tuning |
-| **ML Frameworks** | ███████████░ Advanced | PyTorch, TensorFlow, Scikit-learn, Keras |
-| **LLM Orchestration** | ███████████░ Advanced | LangChain, LlamaIndex, OpenAI API, function calling |
-| **Computer Vision** | █████████░░░ Proficient | CNNs, object detection, image segmentation (OpenCV, YOLO) |
-| **NLP & Text Analytics** | ███████████░ Advanced | Transformers, HuggingFace, named entity recognition, sentiment |
-| **MLOps & Deployment** | ████████████ Expert | SageMaker, MLflow, BentoML, model versioning, drift monitoring |
-| **Vector Databases** | █████████░░░ Proficient | Pinecone, Weaviate, pgvector — embeddings & semantic search |
-| **Data Engineering** | ████████████ Expert | Pandas, Spark, Airflow, dbt, real-time streaming with Kafka |
-
-</div>
+| Domain | Focus | Details |
+|:--|:--:|:--|
+| **Workflow Platforms** | ![Core](https://img.shields.io/badge/Core-6D28D9?style=flat-square) | Sprint boards, milestone tracking, feature branch visibility, and team velocity metrics |
+| **Code Review Systems** | ![Core](https://img.shields.io/badge/Core-6D28D9?style=flat-square) | Pull request assignment, peer-review pipelines, and review turnaround tracking |
+| **Bot Engineering** | ![Core](https://img.shields.io/badge/Core-6D28D9?style=flat-square) | Discord bots with interactive commands, ticketing, and automated customer flows |
+| **Commerce Automation** | ![Core](https://img.shields.io/badge/Core-6D28D9?style=flat-square) | Payment-triggered fulfillment, credential delivery, and replacement issuance |
+| **Scheduling & Lifecycle** | ![Applied](https://img.shields.io/badge/Applied-4F46E5?style=flat-square) | Timer-driven rentals, automatic access revocation, and warranty window verification |
+| **Developer Analytics** | ![Applied](https://img.shields.io/badge/Applied-4F46E5?style=flat-square) | Activity logging, contribution metrics, and transparency dashboards |
 
 ---
 
 ## Featured Projects
 
-<details>
-<summary><b>⬡ &nbsp;VentureOps — Interim Growth &amp; Funding Platform</b></summary>
-<br />
+<details open>
+<summary><b>DorvCoding — Team Coordination & Workflow Platform</b></summary>
 
-A milestone-driven funding and interim administration platform designed to supply early capital and operational management to small businesses until target revenue KPIs are reached. VentureOps bridges the gap between early-stage fragility and operational sustainability — removing the founder's administrative burden while preserving their ownership and vision.
+<br/>
 
-<div align="center">
+A centralized team coordination and workflow platform engineered for distributed developer teams and coding collectives to manage tasks, code reviews, and project velocity.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · FastAPI · React · TypeScript · PostgreSQL · Redis · AWS |
-| **Scale** | Multi-tenant architecture · concurrent business onboarding · real-time KPI dashboards |
-| **Performance** | Sub-100ms financial metric aggregation · automated trigger evaluation on every data write |
-| **Security** | Role-based access control · encrypted financial data at rest · full audit trail logging |
-| **Impact** | Automated exit handoff system eliminates manual operational transition overhead entirely |
-| **Repository** | [github.com/dorvsta/ventureops](https://github.com/dorvsta/ventureops) |
+| Category | Details |
+|:--|:--|
+| **Stack** | `Web Platform` `Sprint Boards` `Review Pipelines` `Analytics Engine` |
+| **Scale** | Built for distributed teams and coding collectives working across multiple projects |
+| **Performance** | Streamlined pull request assignment and peer-review flow to keep project velocity high |
+| **Security** | Structured ownership of tickets and reviews with full activity logging for accountability |
+| **Impact** | One workspace for planning, reviewing, and measuring team output with complete transparency |
+| **Repository** | [![Repo](https://img.shields.io/badge/View%20Repository-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/dorvsta/DorvCoding) |
 
-</div>
+**Team Sprint Management** — Structured boards for assigning tickets, setting milestones, and tracking feature branches.
 
-VentureOps tracks each business against a structured set of operational milestones — revenue thresholds, margin targets, and stability KPIs — and surfaces progress through a live admin dashboard. Standardized administration protocols are deployed on intake, stabilizing day-to-day operations while the founder focuses on growth. Once sustainability metrics are confirmed, the automated exit trigger initiates a clean, structured operational handoff back to the founding team with zero manual intervention.
+**Collaborative Review Pipelines** — Streamlined pull request assignments and peer-review workflows.
 
-<br />
+**Developer Analytics** — Activity logging and contribution metrics to maintain team transparency and velocity.
+
 </details>
 
-<details>
-<summary><b>⬡ &nbsp;DorvCoding — Team Coordination &amp; Workflow Platform for Developer Teams</b></summary>
-<br />
+<details open>
+<summary><b>BotLoot — Automated Discord Marketplace Bot</b></summary>
 
-A centralized team coordination and workflow platform engineered for distributed developer teams and coding collectives to manage tasks, code reviews, and project velocity. DorvCoding eliminates the coordination overhead that fragments async engineering teams — bringing sprint management, review pipelines, and contribution analytics into a single developer-first interface.
+<br/>
 
-<div align="center">
+An automated Discord marketplace bot built for seamless transactions, time-restricted rentals, and full warranty lifecycle management for digital gaming accounts.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | TypeScript · Next.js · Node.js · PostgreSQL · Redis · WebSockets · Docker |
-| **Scale** | Multi-workspace support · concurrent sprint boards · real-time collaborative state sync |
-| **Performance** | Live board updates via WebSocket · p99 API latency < 90ms · optimistic UI rendering |
-| **Security** | Workspace-scoped permissions · OAuth 2.0 team authentication · encrypted session tokens |
-| **Impact** | Measurable velocity improvement for distributed teams through transparent contribution metrics |
-| **Repository** | [github.com/dorvsta/dorvcoding](https://github.com/dorvsta/dorvcoding) |
+| Category | Details |
+|:--|:--|
+| **Stack** | `Discord Bot` `Ticketing System` `Timer Scheduler` `Payment-Triggered Fulfillment` |
+| **Scale** | Handles purchases, rentals, and warranty claims concurrently inside Discord servers |
+| **Performance** | Real-time credential delivery immediately after payment confirmation |
+| **Security** | Payment-gated delivery, warranty window verification, and automated access revocation on expiry |
+| **Impact** | Removes manual order handling across sales, rentals, and support with fully automated fulfillment |
+| **Repository** | [![Repo](https://img.shields.io/badge/View%20Repository-4338CA?style=flat-square&logo=github&logoColor=white)](https://github.com/dorvsta/BotLoot) |
 
-</div>
+**Instant Automated Fulfillment** — Real-time credential delivery immediately following payment confirmation.
 
-DorvCoding provides structured sprint boards for assigning tickets, setting milestone targets, and tracking feature branches across distributed team members. The collaborative review pipeline streamlines pull request assignments with automated reviewer rotation and peer-review checklists. Developer analytics surface contribution frequency, review turnaround time, and per-member velocity — giving tech leads the visibility they need without introducing surveillance overhead into team culture.
+**Time-Bound Rental System** — Automated timer triggers that track rental durations and revoke or reassign access upon expiration.
 
-<br />
+**Full Warranty Management** — Integrated ticketing and dispute handling that verifies warranty windows and automates replacement issuance.
+
 </details>
-
-<details>
-<summary><b>⬡ &nbsp;BotLoot — Automated Discord Marketplace &amp; Rental Management Bot</b></summary>
-<br />
-
-An automated Discord marketplace bot built for seamless transactions, time-restricted rentals, and full warranty lifecycle management for digital gaming accounts. BotLoot eliminates manual seller overhead entirely — from payment confirmation through credential delivery to warranty expiration — operating as a fully autonomous commerce layer inside Discord.
-
-<div align="center">
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · discord.py · PostgreSQL · Redis · Stripe API · Async Task Queue |
-| **Scale** | High-frequency transaction handling · concurrent rental timers · 24/7 uptime operation |
-| **Performance** | Sub-5s credential delivery post-payment · millisecond-precision rental expiration triggers |
-| **Security** | Encrypted credential storage · webhook signature verification · automated fraud flagging |
-| **Impact** | Full seller automation — zero manual fulfillment, zero manual warranty processing |
-| **Repository** | [github.com/dorvsta/botloot](https://github.com/dorvsta/botloot) |
-
-</div>
-
-BotLoot integrates directly with payment processors to confirm transactions and trigger instant, automated credential delivery to the buyer without any seller action required. The time-bound rental system runs persistent async timers that track rental durations with precision, automatically revoking or reassigning access upon expiration. The integrated warranty management layer handles the full dispute lifecycle — verifying warranty windows against purchase timestamps, opening structured tickets, and automating replacement issuance for valid claims — all within Discord's native UX.
-
-<br />
-</details>
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| ⭐ **Open Source Presence** | Active repositories across automation, SaaS, and developer tooling verticals |
-| 🏗 **Founder-Engineer** | Solo-architected and shipped multiple production systems end-to-end |
-| 🤖 **Automation Depth** | Built fully autonomous commerce and operational handoff systems without human-in-the-loop |
-| 🛠 **Full Stack Breadth** | Delivery across frontend, backend, infrastructure, ML, and Discord bot development |
-| 📦 **Product Mindset** | Every project scoped around measurable business impact — not just technical output |
-| 🔒 **Security Conscious** | Encrypted credential storage, RBAC, OAuth 2.0, and audit logging across all platforms |
-
-</div>
-
----
-
-## Certifications
-
-<p align="center"><strong>Amazon Web Services</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS_Developer_Associate-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-<p align="center"><strong>Oracle</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle_Java_SE_Professional-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure_Foundations-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-<p align="center"><strong>NPTEL &amp; Cisco</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Deep_Learning_Excellence-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cisco_CCNA-Network_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
----
-
-## Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/dorvsta/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/dorvsta/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Contributor-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/dorvsta">
-    <img src="https://img.shields.io/badge/HackerRank-Problem_Solver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/dorvsta">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dorvsta&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorvsta&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=C4B5FD&hide=jupyter%20notebook,html,css" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dorvsta&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=6D28D9&ring=A78BFA&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=6D7280" width="68%" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dorvsta&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=6366F1&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorvsta&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=dorvsta&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=8B5CF6&dates=6366F1" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dorvsta&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dorvsta&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&row=1" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
 ## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dorvsta&theme=react-dark&bg_color=0D0D1A&color=A78BFA&line=6D28D9&point=ffffff&area=true&area_color=3B0764&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dorvsta&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6366F1&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" width="100%" />
+
+</div>
 
 ---
 
 ## Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dorvsta/dorvsta/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dorvsta/dorvsta/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dorvsta/dorvsta/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/dorvsta/dorvsta/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
 ## Current Focus
 
 ```yaml
-current_focus:
-  building:
-    - "VentureOps — milestone engine and automated founder exit handoff system"
-    - "DorvCoding — real-time WebSocket sprint boards and developer analytics layer"
-    - "BotLoot v2 — multi-server support and expanded rental inventory management"
+Learning:
+  - Scalable backend architecture and system design
+  - Advanced automation and event-driven workflows
 
-  learning:
-    - "Multi-agent system architectures with LangGraph and CrewAI"
-    - "Rust for systems-level programming and high-throughput automation"
-    - "Advanced LLM fine-tuning — LoRA / QLoRA on domain-specific datasets"
+Building:
+  - DorvCoding: team coordination and workflow platform
+  - BotLoot: automated Discord marketplace bot
 
-  exploring:
-    - "On-chain payment rails for BotLoot's marketplace fulfillment layer"
-    - "Vector database hybrid retrieval for intelligent business KPI matching"
-    - "WebGPU for in-browser ML inference without server round-trips"
+Exploring:
+  - Developer analytics and contribution metrics
+  - Payment-driven fulfillment and lifecycle automation
 
-  open_to:
-    - "Senior / Staff Software Engineer opportunities"
-    - "Technical Co-Founder at early-stage product companies"
-    - "AI/ML engineering roles at product-driven teams"
-    - "High-impact open source collaboration"
+Open To:
+  - Open source collaboration
+  - Team projects and engineering discussions
 ```
 
 ---
 
 ## Connect
 
-<p align="center">
-  <a href="https://github.com/dorvsta">
-    <img src="https://img.shields.io/badge/GitHub-@dorvsta-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/dorvsta"><img src="https://img.shields.io/badge/GitHub-dorvsta-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/dorvsta?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
+</div>
 
 ---
 
-<p align="center">
-  <em>"The best systems are invisible — they just work, at any scale, under any load."</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,26&height=120&section=footer&animation=fadeIn" width="100%" />
-</p>
+*Great software is engineered with precision, shipped with purpose, and refined with humility.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" alt="Footer" />
+
+</div>
